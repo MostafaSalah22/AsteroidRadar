@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Asteroid Radar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next_week_asteroids">View week asteroids</string>
+    <string name="today_asteroids">View today asteroids</string>
+    <string name="saved_asteroids">View saved asteroids</string>
+    <string name="potentially_hazardous_asteroid_image">potentially hazardous asteroid image</string>
+    <string name="not_hazardous_asteroid_image">not hazardous asteroid image</string>
+    <string name="error_loading_photos">error loading photos</string>
+    <string name="astronomical_unit_explanation_button">Astronomical unit definition</string>
+    <string name="dialog_message">The astronomical unit (au) ia a unit of length, roughly the distance from Earth to the Sun and equal to about 150 million kilometers (93 million miles)</string>
+</resources>
